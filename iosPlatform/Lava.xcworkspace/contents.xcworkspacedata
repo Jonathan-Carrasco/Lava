@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Lava/Lava.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:swifter/XCode/Swifter.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SQLite.swift/SQLite.xcodeproj">
+   </FileRef>
+</Workspace>
